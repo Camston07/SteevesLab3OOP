@@ -1,0 +1,17 @@
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\bin\Debug\net9.0-windows\SteevesLab3.exe
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\bin\Debug\net9.0-windows\SteevesLab3.deps.json
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\bin\Debug\net9.0-windows\SteevesLab3.runtimeconfig.json
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\bin\Debug\net9.0-windows\SteevesLab3.dll
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\bin\Debug\net9.0-windows\SteevesLab3.pdb
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\obj\Debug\net9.0-windows\SteevesLab3.csproj.GenerateResource.cache
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\obj\Debug\net9.0-windows\SteevesLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\obj\Debug\net9.0-windows\SteevesLab3.AssemblyInfoInputs.cache
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\obj\Debug\net9.0-windows\SteevesLab3.AssemblyInfo.cs
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\obj\Debug\net9.0-windows\SteevesLab3.csproj.CoreCompileInputs.cache
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\obj\Debug\net9.0-windows\SteevesLab3.dll
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\obj\Debug\net9.0-windows\refint\SteevesLab3.dll
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\obj\Debug\net9.0-windows\SteevesLab3.pdb
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\obj\Debug\net9.0-windows\SteevesLab3.genruntimeconfig.cache
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\obj\Debug\net9.0-windows\ref\SteevesLab3.dll
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\obj\Debug\net9.0-windows\SteevesLab3.AddProductForm.resources
+C:\Cameron\NBCC\Object-Oriented_Programming\Assignments\SteevesLab3\SteevesLab3\SteevesLab3\obj\Debug\net9.0-windows\SteevesLab3.MainForm.resources
